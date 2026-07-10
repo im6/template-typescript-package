@@ -1,1 +1,1 @@
-# no-use
+# typescript package template
